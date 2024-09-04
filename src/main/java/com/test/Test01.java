@@ -1,7 +1,6 @@
 package main.java.com.test;
 
 import java.util.Scanner;
-
 // 문자열 출력하기.
 public class Test01 {
     public static void main(String[] args) {
