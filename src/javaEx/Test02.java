@@ -1,4 +1,4 @@
-package main.java.com.test;
+package javaEx;
 import java.util.Scanner;
 
 // a와 b 출력하기

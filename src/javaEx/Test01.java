@@ -1,4 +1,4 @@
-package main.java.com.test;
+package javaEx;
 
 import java.util.Scanner;
 // 문자열 출력하기.

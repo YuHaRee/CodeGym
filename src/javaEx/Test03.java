@@ -1,4 +1,4 @@
-package main.java.com.test;
+package javaEx;
 import java.util.Scanner;
 
 // 문자열 반복해서 출력하기
